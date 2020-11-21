@@ -1,2 +1,3 @@
-# ssh-hosts-getter
-A Python Script to get the list of hosts available among our config files
+# SSH Hosts Getter
+
+A simple Python script to list all the available ssh hosts in your config file(s).
